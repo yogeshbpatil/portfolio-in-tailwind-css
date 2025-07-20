@@ -54,12 +54,15 @@ export function Skills() {
   return (
     <section className="px-8">
       <div className="container mx-auto mb-20 text-center">
+        {/* @ts-ignore */}
         <Typography color="blue-gray" className="mb-2 font-bold uppercase">
           my skills
         </Typography>
+        {/* @ts-ignore */}
         <Typography variant="h1" color="blue-gray" className="mb-4">
           What I do
         </Typography>
+        {/* @ts-ignore */}
         <Typography
           variant="lead"
           className="mx-auto w-full !text-gray-500 lg:w-10/12"

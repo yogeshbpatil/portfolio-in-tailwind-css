@@ -11,9 +11,11 @@ export function Testimonial() {
     <section className="py-12 px-8 lg:py-24">
       <div className="container max-w-screen-lg mx-auto">
         <div className="container mx-auto mb-20 text-center">
+          {/* @ts-ignore */}
           <Typography variant="h2" color="blue-gray" className="mb-4">
             What Clients Say
           </Typography>
+          {/* @ts-ignore */}
           <Typography
             variant="lead"
             className="mx-auto w-full px-4 font-normal !text-gray-500 lg:w-8/12"
@@ -27,6 +29,7 @@ export function Testimonial() {
           {/* @ts-ignore */}
           <CardBody className="w-full lg:gap-10 h-full lg:!flex justify-between ">
             <div className="w-full mb-10 lg:mb-0">
+              {/* @ts-ignore */}
               <Typography
                 variant="h3"
                 color="blue-gray"
@@ -34,14 +37,17 @@ export function Testimonial() {
               >
                 Mobile App Development
               </Typography>
+              {/* @ts-ignore */}
               <Typography className="mb-3 w-full lg:w-8/12 font-normal !text-gray-500">
                 I had the pleasure of working with Lily on a critical web
                 development project, and I can confidently say that their
                 expertise and professionalism exceeded my expectations.
               </Typography>
+              {/* @ts-ignore */}
               <Typography variant="h6" color="blue-gray" className="mb-0.5">
                 Michael - Technical Manager
               </Typography>
+              {/* @ts-ignore */}
               <Typography
                 variant="small"
                 className="font-normal mb-5 !text-gray-500"
@@ -87,6 +93,7 @@ export function Testimonial() {
               </div>
             </div>
             <div className="h-[21rem] rounded-lg w-full sm:w-[18rem] shrink-0">
+              {/* @ts-ignore */}
               <Image
                 width={768}
                 height={768}
