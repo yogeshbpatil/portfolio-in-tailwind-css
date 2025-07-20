@@ -39,6 +39,7 @@ interface NavItemProps {
 function NavItem({ children, href }: NavItemProps) {
   return (
     <li>
+      {/* @ts-ignore */}
       <Typography
         as="a"
         href={href || "#"}
