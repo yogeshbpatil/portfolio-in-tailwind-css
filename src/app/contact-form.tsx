@@ -54,6 +54,7 @@ export function ContactForm() {
                 <div className="flex gap-5">
                   {/* @ts-ignore */}
                   <PhoneIcon className="h-6 w-6 text-white" />
+                  {/* @ts-ignore */}
                   <Typography variant="h6" color="white" className="mb-2">
                     +1(424) 535 3523
                   </Typography>
