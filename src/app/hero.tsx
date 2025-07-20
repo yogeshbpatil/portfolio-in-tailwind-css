@@ -14,16 +14,15 @@ function Hero() {
             color="blue-gray"
             className="mb-4 lg:text-5xl !leading-tight text-3xl"
           >
-            Welcome to my Web Yogesh <br /> Development Portofolio!
+            Welcome to my Web <br /> Development Portofolio!
           </Typography>
           {/* @ts-ignore */}
           <Typography
             variant="lead"
             className="mb-4 !text-gray-500 md:pr-16 xl:pr-28"
           >
-            I&apos;m Lily Yogesh, a passionate web developer based in USA. Here,
-            you&apos;ll get a glimpse of my journey in the world of web
-            development, where creativity meets functionality.
+            Crafting fast, responsive, and scalable web apps with ReactJS.
+            Turning ideas into interactive experiences.
           </Typography>
           <div className="grid">
             {/* @ts-ignore */}
