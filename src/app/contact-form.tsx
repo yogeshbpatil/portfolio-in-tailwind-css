@@ -129,6 +129,7 @@ export function ContactForm() {
                       className: "!min-w-full mb-8",
                     }}
                   />
+                  {/* @ts-ignore */}
                   <Typography
                     variant="lead"
                     className="!text-blue-gray-500 text-sm mb-2"
