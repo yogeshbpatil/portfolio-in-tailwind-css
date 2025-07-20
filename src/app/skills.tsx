@@ -56,7 +56,7 @@ export function Skills() {
       <div className="container mx-auto mb-20 text-center">
         {/* @ts-ignore */}
         <Typography color="blue-gray" className="mb-2 font-bold uppercase">
-          my skills
+          my skills dx
         </Typography>
         {/* @ts-ignore */}
         <Typography variant="h1" color="blue-gray" className="mb-4">
