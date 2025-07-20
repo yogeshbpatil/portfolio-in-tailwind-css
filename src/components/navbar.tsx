@@ -70,6 +70,7 @@ export function Navbar() {
       {/* @ts-ignore */}
       <MTNavbar shadow={false} fullWidth className="border-0 sticky top-0 z-50">
         <div className="container mx-auto flex items-center justify-between">
+          {/* @ts-ignore */}
           <Typography color="blue-gray" className="text-lg font-bold">
             Material Tailwind
           </Typography>

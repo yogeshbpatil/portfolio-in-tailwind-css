@@ -15,6 +15,7 @@ export function ResumeItem({ icon: Icon, children }: ResumeItemProps) {
       >
         <Icon className="h-6 w-6" strokeWidth={2} />
       </Card>
+      {/* @ts-ignore */}
       <Typography className="w-full font-normal !text-gray-500">
         {children}
       </Typography>
