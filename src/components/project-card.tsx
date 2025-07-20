@@ -35,10 +35,12 @@ export function ProjectCard({ img, title, desc }: ProjectCardProps) {
             href="#"
             className="text-blue-gray-900 transition-colors hover:text-gray-800"
           >
+            {/* @ts-ignore */}
             <Typography variant="h5" className="mb-2">
               {title}
             </Typography>
           </a>
+          {/* @ts-ignore */}
           <Typography className="mb-6 font-normal !text-gray-500">
             {desc}
           </Typography>
