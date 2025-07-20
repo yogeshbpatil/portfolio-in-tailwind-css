@@ -14,7 +14,7 @@ function Hero() {
             color="blue-gray"
             className="mb-4 lg:text-5xl !leading-tight text-3xl"
           >
-            Welcome to my Web <br /> Development Portofolio!
+            Welcome to my Web Yogesh <br /> Development Portofolio!
           </Typography>
           {/* @ts-ignore */}
           <Typography
