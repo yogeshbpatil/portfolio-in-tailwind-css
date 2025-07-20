@@ -21,7 +21,7 @@ function Hero() {
             variant="lead"
             className="mb-4 !text-gray-500 md:pr-16 xl:pr-28"
           >
-            I&apos;m Lily Smith, a passionate web developer based in USA. Here,
+            I&apos;m Lily Yogesh, a passionate web developer based in USA. Here,
             you&apos;ll get a glimpse of my journey in the world of web
             development, where creativity meets functionality.
           </Typography>
